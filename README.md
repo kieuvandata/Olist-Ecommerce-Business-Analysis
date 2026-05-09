@@ -17,3 +17,9 @@ Total Orders: Total unique orders placed on the system.
 Avg. Delivery Time: Average days from order placement to customer receipt.  
 % Late Orders: The percentage of orders delivered past the estimated date (reflecting service quality).  
 Avg. Ticket Size: Average revenue generated per order.
+# Dashboard Structure
+The Power BI report consists of four specialized pages:  
+Overview: Macro-level view of revenue, order volume, and growth trends.  
+Product Analysis: Performance of product categories and best-sellers. 
+Customer Insights: Geographical heatmaps and spending behavior analysis.  
+Insights & Recommendations: Strategic proposals based on data findings.
