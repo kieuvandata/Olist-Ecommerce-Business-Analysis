@@ -1,4 +1,4 @@
-# Olist-Ecommerce-Business-Analysis
+#Ecommerce-Business-Analysis
 Data-driven insights into 100k+ Brazilian e-commerce orders to improve delivery efficiency.
 # Project Overview
 This project focuses on analyzing the business health and operational efficiency of Olist, a leading e-commerce platform in Brazil. By deep-diving into over 100,000 orders , the objective is to monitor sales performance, understand customer behavior, and identify critical "bottlenecks" in the logistics process to improve delivery times.
